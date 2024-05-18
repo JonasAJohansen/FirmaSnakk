@@ -11,8 +11,8 @@ import { Toaster } from "@/components/ui/toaster";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Firma Snakk",
-  description: "Firma Snakk",
+  title: "YOOM",
+  description: "Video calling App",
   icons: {
     icon: "/icons/logo.svg",
   },
