@@ -12,7 +12,7 @@ import Loader from './Loader';
 import { Textarea } from './ui/textarea';
 import ReactDatePicker from 'react-datepicker';
 import { useToast } from './ui/use-toast';
-import { Input } from "@/components/ui/input"
+import { Input } from './ui/input';
 
 const initialValues = {
   dateTime: new Date(),
